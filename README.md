@@ -40,7 +40,7 @@ To open the file in `.sketch` format on any operating system use the tool [Figma
 
 ## :memo: License
 
-This project is under the MIT license. See the archive[LICENSE](LICENSE.md) for more details.
+This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for more details.
 
 ---
 
