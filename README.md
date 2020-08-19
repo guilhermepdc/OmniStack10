@@ -34,7 +34,7 @@ DevRadar is a project that aims to connect developers close to you who work with
 
 ## 🔖 Layout
 
-You can download the project layout in `.sketch` format via [desse link](.github/DevRadar.sketch).
+You can download the project layout in `.sketch` format via [this link](.github/DevRadar.sketch).
 
 To open the file in `.sketch` format on any operating system use the tool [Figma](https://figma.com).
 
